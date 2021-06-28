@@ -1,0 +1,28 @@
+*{
+	background: orange;
+	font-family: sans-serif;
+}
+.sign {
+	padding: 50px;
+	font: optional;
+	font-size: 2.5em;
+}
+
+
+
+
+
+table{
+	margin-top: 100px;
+	text-align: center;
+	background: #333;
+	color: #fff;
+}
+
+#show th, #show td{
+	padding: 20px;
+}
+
+#btna td input{
+	width: 100%;
+}
